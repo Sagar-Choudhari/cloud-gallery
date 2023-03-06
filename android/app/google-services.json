@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282883637005",
+    "project_id": "cloud-gallery-af56a",
+    "storage_bucket": "cloud-gallery-af56a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282883637005:android:23de67424d57d12fc3fa44",
+        "android_client_info": {
+          "package_name": "com.example.cloudgallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282883637005-adqs5i94al9d6khsbcj7fniv35a02r32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWG2wsukAVIfzEIUNhSVuqYjldhZH6LTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282883637005-adqs5i94al9d6khsbcj7fniv35a02r32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
